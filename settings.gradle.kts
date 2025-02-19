@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "QNotes"
 include(":app")
 include(":base")
+include(":utils")
